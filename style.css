@@ -1,0 +1,40 @@
+* {
+  margin: 10px;
+}
+
+.header1 {
+  position: fixed;
+  background-color: cyan;
+  width: 100%;
+  left: -10px;
+  top: -10px;
+}
+.list ul li:nth-child(2) {
+  color: blue;
+}
+
+.image {
+  display: inline-block;
+}
+
+.h3 {
+  color: #ffa500;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+.link1 li a {
+  color: green;
+}
+
+.link1 li a:hover {
+  color: red;
+}
+
+.box-model {
+  margin: 10%;
+}
+
+.tree {
+  border-radius: 50%;
+}
